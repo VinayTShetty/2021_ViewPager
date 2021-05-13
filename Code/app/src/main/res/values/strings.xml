@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ViewPager</string>
+    <!--DataPassing Numer-->
+    <string name="COUNT">Count Value</string>
 </resources>
